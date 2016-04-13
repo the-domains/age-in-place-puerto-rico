@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Age In Place Puerto Rico]]></title>
         <description><![CDATA[Age In Place Puerto Rico]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/age-in-place-puerto-rico/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Mar 2016 23:23:20 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 13 Apr 2016 16:34:29 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/age-in-place-puerto-rico/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>De todo sobre Age In Place en Puerto Rico</p>]]></description>
-            <link>undefinedea6952f7-1541-4fa9-9526-cd51344a316f/index.html</link>
+            <link>https://thegrid.ai/age-in-place-puerto-rico/ea6952f7-1541-4fa9-9526-cd51344a316f/index.html</link>
             <guid isPermaLink="false">ea6952f7-1541-4fa9-9526-cd51344a316f</guid>
-            <pubDate>Mon, 21 Mar 2016 23:23:20 GMT</pubDate>
+            <pubDate>Wed, 13 Apr 2016 16:34:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
