@@ -1,29 +1,41 @@
-name: Age In Place Puerto Rico
-favicon: null
-layout_spectrum: 0.3527558767236769
-typography_spectrum: 0.1616985818836838
-title: Age In Place Puerto Rico
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.3527558767236769
+title: Age In Place Puerto Rico
+cta:
+  bucket: null
+  version: null
+  domain: null
 color:
+  saturation: 0.2355045834556222
+  brandStrength: 0.5009521183092147
+  rhythmicContrast: 0.1678100025746971
   brandColors:
     - '#17BEBB'
     - '#2E282A'
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.5009521183092147
-  lightness: 0.10167921939864755
-  saturation: 0.2355045834556222
-  rhythmicContrast: 0.16781000257469714
+  lightness: 0.1016792193986475
 purpose: []
+favicon: null
+name: Age In Place Puerto Rico
+typography_spectrum: 0.1616985818836838
